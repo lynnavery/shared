@@ -314,7 +314,7 @@ ul.thin li {
 	position: relative;
 	padding: 3px 3px 3px 5px;
 	font-size: 0.9em;
-	background-: var(--rp-overlay);
+	background: var(--rp-overlay);
 	color: var(--rp-text);
 	border: 1px solid var(--rp-hl-high);
 }
