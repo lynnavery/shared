@@ -314,9 +314,16 @@ ul.thin li {
 	position: relative;
 	padding: 3px 3px 3px 5px;
 	font-size: 0.9em;
-	background-color: var(--rp-overlay);
+	background-: var(--rp-overlay);
 	color: var(--rp-text);
 	border: 1px solid var(--rp-hl-high);
+}
+
+input[type="search"] {
+  	font-size: 0.9em;
+  	background: var(--rp-overlay);
+  	border: none;
+ 	color: var(--rp-text);
 }
 
 #searchbars ul {
